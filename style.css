@@ -31,7 +31,6 @@ h1{
     width: 300px;
     margin-inline: auto;
     text-align: center;
-    border: 2px solid red;
 }
 
 button{
@@ -59,6 +58,10 @@ button{
         height: 50px;
         width: 50px;
         font-size: 13px;
+     }
+
+     .buttons{
+        max-width: 230px;
      }
  }
 
