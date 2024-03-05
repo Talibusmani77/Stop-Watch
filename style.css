@@ -46,22 +46,23 @@ button{
 
 @media only screen and (max-width: 500px){
      h1{
-        font-size: 35px;
+        font-size: 45px;
      }
 
      main{
-        height: 150px;
-        width: 300px;
+        height: 180px;
+        width: 350px;
      }
 
      button{
-        height: 40px;
-        width: 40px;
-        font-size: 12px;
+        height: 50px;
+        width: 50px;
+        font-size: 13px;
      }
 
      .buttons{
-        width: 200px;
+        width: 230px;
+        text-align: center;
      }
  }
 
